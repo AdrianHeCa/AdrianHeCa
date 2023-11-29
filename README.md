@@ -1,16 +1,29 @@
-### Hi there 👋
+<!-- Encabezado -->
+<h1 align="center">
+  Hola, soy Adrián
+</h1>
 
-<!--
-**AdrianHeCa/AdrianHeCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Acerca de mí
+Bienvenido/a a mi perfil Soy un entusiasta de la tecnología apasionado por la programación y el diseño.
 
-Here are some ideas to get you started:
+## 🧠 Habilidades
+- Desarrollo web
+  - HTML ✅
+- Diseño web
+  - CSS 🖌
+- Programación
+  - Python 🐍
+  - JavaScript 👨‍💻
+  - Java 👩‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Proyectos Destacados
+1. [Página modular completa](https://adrianheca.github.io/LMGI/Actividad_20/)
+2. [Navbar modular](https://adrianheca.github.io/LMGI/Actividad_19/)
+3. [MonkeyIsland](https://github.com/AdrianHeCa/Programacion/blob/main/Inicio/src/inicio/MonkeyIsland.java)
+3. [Ahorcado](https://github.com/AdrianHeCa/Programacion/blob/main/Inicio/src/inicio/Ahorcado.java)
+
+## 🎓 Estudios
+  - Sistemas Microinformáticos y Redes
+    - Sant Josep Obrer
+  - Actualmente estudiando Desarrollo de Aplicaciones Multimedia
+    - CIDE
