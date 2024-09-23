@@ -17,10 +17,10 @@ Bienvenid@ a mi perfil Soy una entusiasta de la tecnología apasionada por la pr
   - Java 👩‍💻
 
 ## 🛠️ Proyectos Destacados
-1. [Página modular completa](https://adrianheca.github.io/LMGI/Actividad_20/)
-2. [Navbar modular](https://adrianheca.github.io/LMGI/Actividad_19/)
-3. [MonkeyIsland](https://github.com/AdrianHeCa/Programacion/blob/main/Inicio/src/inicio/MonkeyIsland.java)
-3. [Ahorcado](https://github.com/AdrianHeCa/Programacion/blob/main/Inicio/src/inicio/Ahorcado.java)
+1. [Página modular completa](https://aroahc.github.io/LMGI/Actividad_20/)
+2. [Navbar modular](https://aroahc.github.io/LMGI/Actividad_19/)
+3. [MonkeyIsland](https://github.com/AroaHC/Programacion/blob/main/Inicio/src/inicio/MonkeyIsland.java)
+3. [Ahorcado](https://github.com/AroaHC/Programacion/blob/main/Inicio/src/inicio/Ahorcado.java)
 
 ## 🎓 Estudios
   - Sistemas Microinformáticos y Redes
