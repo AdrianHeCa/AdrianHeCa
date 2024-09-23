@@ -1,10 +1,10 @@
 <!-- Encabezado -->
 <h1 align="center">
-  Hola, soy Adrián
+  Hola, soy Aroa
 </h1>
 
 ## 💻 Acerca de mí
-Bienvenido/a a mi perfil Soy un entusiasta de la tecnología apasionado por la programación y el diseño.
+Bienvenid@ a mi perfil Soy una entusiasta de la tecnología apasionada por la programación y el diseño.
 
 ## 🧠 Habilidades
 - Desarrollo web
